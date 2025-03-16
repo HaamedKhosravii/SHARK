@@ -12,7 +12,7 @@
 
 * First of all, Clone the project:
 ```
-git clone https://github.com/EngRobot33/SHARK.git
+git clone https://github.com/HaamedKhosravii/SHARK.git
 ```
 * Then, Run the `shell.py` file for running the project:
 ```
